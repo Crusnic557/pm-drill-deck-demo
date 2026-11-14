@@ -2,7 +2,7 @@
 
 A spaced-repetition study deck for project management: multiple-choice questions, flip cards, judgement calls with what actually happened, and a searchable glossary across nine courses (Agile, blended PM, supply chain, procurement, critical thinking with GenAI, PMP-style scenarios, grey-area management calls, PMI standards, NZS 3910 contracts, and Gen Z workplace topics).
 
-**Live demo:** https://pryous.github.io/pm-drill-deck-demo/
+**Live demo:** https://crusnic557.github.io/pm-drill-deck-demo/
 
 ## What this version is
 
